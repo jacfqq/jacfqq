@@ -18,10 +18,10 @@ Based in Toronto, Canada.
 
 | Deployment | What I delivered | Result |
 | --- | --- | --- |
-| Spanish debt-collections voice agent | Configured a Spanish voice agent, integrated lending-system workflows, and refined conversation behavior through prompt tuning. | Supported high-volume outreach and materially reduced collections operating cost. |
-| Multilingual B2B sales voice agent | Built a high-concurrency outbound agent with voice synthesis and CRM integration. | Improved qualified-lead conversion versus manual outreach while materially reducing labor. |
-| AI after-sales support and ticketing | Partnered with a customer engineering team on AWS to automate ticket creation across written support channels. | Automated a substantial share of routine logistics questions and shortened complex-issue response times. |
-| Insurance sales agents and multilingual copilot | Delivered an on-premises deployment with outbound automation, human handoffs, and multilingual copilot workflows. | Improved policy conversion and customer satisfaction while lowering service labor cost. |
+| Enterprise voice-agent deployment | Configured a multilingual voice agent, integrated workflow systems, and refined conversation behavior through prompt tuning. | Supported high-volume outreach and materially reduced operating cost. |
+| Multilingual outbound workflow | Built a high-concurrency outbound workflow with voice synthesis and CRM integration. | Improved qualified-lead conversion versus manual outreach while materially reducing labor. |
+| Customer-support workflow automation | Designed ticket-creation automation across written support channels. | Automated a substantial share of routine questions and shortened complex-issue response times. |
+| Multilingual agent and copilot deployment | Delivered outbound automation, human handoffs, and multilingual copilot workflows. | Improved conversion and customer satisfaction while lowering service labor cost. |
 
 ## Selected work
 
